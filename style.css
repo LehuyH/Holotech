@@ -290,7 +290,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   z-index: -1;
-  background-image: url('/img/e.jpg');
+  background-image: url('https://raw.githubusercontent.com/LehuyH/Holotech/master/img/e.jpg');
   transition: all 1s ease-in-out;
 }
 .found{
